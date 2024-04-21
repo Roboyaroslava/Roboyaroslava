@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m freelance developer (Python, Bash, Powershell, PHP) and geek<br>🤝 I’m looking for help with opensource project<br>🌱 I’m currently learning AI<br>💬 Ask me about Bash, Python, Powershell and security in IT
+🔭 Task automation enthusiast, love pentest and security (my main stack: Python, Bash, Powershell, PHP) and geek<br>🤝 I’m looking for help with opensource project<br>🌱 I’m currently learning AI<br>💬 Ask me about Bash, Python, Powershell and security in IT
 
 
 ## 🌐 Socials:
